@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5i8xdt4nJPmzlgqRJ9XzPSIBvM/Ii5cakhsAuoQYSAZKVyllx2cYRK6TFtfn3/nEhVLyGgrZKzUwfO5Tym/MbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\תכנות\\CLI\\CLI\\CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
